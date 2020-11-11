@@ -1,5 +1,5 @@
 % Load file as table
-survey = importfile('survey2.csv',[2, Inf]);
+survey = importfile('data/survey2.csv',[2, Inf]);
 
 % Drop all political affiliations that are not Democrat or Republican
 conds = survey.y ~= 'Democrat' & survey.y ~='Republican';
