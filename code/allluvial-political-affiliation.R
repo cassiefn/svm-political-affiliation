@@ -1,6 +1,6 @@
-## author: cnoble
 ## create alluvial diagram to visualize many-response questionnaire 
 ## and color code by political affiliation
+## author: cnoble
 
 # load packages and read data
 library(SubgrPlots)
