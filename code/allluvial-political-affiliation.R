@@ -1,3 +1,4 @@
+## author: cnoble
 ## create alluvial diagram to visualize many-response questionnaire 
 ## and color code by political affiliation
 
