@@ -1,3 +1,6 @@
+%% authors: cnoble and dkelly
+%% use svm to predict political affiliation and analyze efficacy of model
+
 % Load file as table
 survey = importfile('data/survey2.csv',[2, Inf]);
 
